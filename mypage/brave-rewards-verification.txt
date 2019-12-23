@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: star12ap17.github.io
+Token: 01b723eb1bed3f2fa3658486cbbd8cec46546177294400168eb60effdc71f6d4
